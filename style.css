@@ -41,10 +41,12 @@
   margin: 0;
   padding: 0px;
 }
-.list, .h3 {
+.list, 
+.h3 {
   list-style: none;
 }
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 .btn {
