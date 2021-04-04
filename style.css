@@ -18,8 +18,11 @@
 }
 
 @media (max-width:768px) {
-  .more-inf__wrapper { text-align: center;
+
+  .more-inf__wrapper { 
+    text-align: center;
   }
+  
 }
 .centered-main-page__element {
   display: block;
